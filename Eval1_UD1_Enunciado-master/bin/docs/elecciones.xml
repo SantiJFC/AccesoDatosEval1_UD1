@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escrutinio_sitio>
+    <porciento_escrutado>100</porciento_escrutado>
+    <nombre_sitio>Vigo</nombre_sitio>
+    <convocatoria>2020</convocatoria>
+    <ts>1594630407</ts>
+    <tipo_sitio>5</tipo_sitio>
+    <votos>
+        <contabilizados>
+            <cantidad>136513</cantidad>
+            <porcentaje>57.18</porcentaje>
+        </contabilizados>
+        <abstenciones>
+            <cantidad>102238</cantidad>
+            <porcentaje>42.82</porcentaje>
+        </abstenciones>
+        <nulos>
+            <cantidad>989</cantidad>
+            <porcentaje>0.72</porcentaje>
+        </nulos>
+        <blancos>
+            <cantidad>1144</cantidad>
+            <porcentaje>0.84</porcentaje>
+        </blancos>
+    </votos>
+    <resultados>
+        <numero_partidos>16</numero_partidos>
+        <partido id="18">
+            <nombre>PP</nombre>
+            <votos_numero>44064</votos_numero>
+            <votos_porciento>32.51</votos_porciento>
+        </partido>
+       <partido id="19">
+            <nombre>PSdeG</nombre>
+            <votos_numero>43332</votos_numero>
+            <votos_porciento>31.97</votos_porciento>
+        </partido>
+       <partido id="3">
+            <nombre>BNG</nombre>
+            <votos_numero>31628</votos_numero>
+            <votos_porciento>23.34</votos_porciento>
+        </partido>
+       <partido id="17">
+            <nombre>PODEMOS-EU-ANOVA</nombre>
+            <votos_numero>8246</votos_numero>
+            <votos_porciento>6.08</votos_porciento>
+        </partido>
+       <partido id="25">
+            <nombre>VOX</nombre>
+            <votos_numero>2913</votos_numero>
+            <votos_porciento>2.15</votos_porciento>
+        </partido>
+       <partido id="7">
+            <nombre>Cs</nombre>
+            <votos_numero>1671</votos_numero>
+            <votos_porciento>1.23</votos_porciento>
+        </partido>
+        
+    </resultados>
+</escrutinio_sitio>
